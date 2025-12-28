@@ -1,4 +1,6 @@
 # 🎙️ Wispr Clone - Voice-to-Text Transcription App
+<img width="1919" height="1017" alt="image" src="https://github.com/user-attachments/assets/544814a0-853d-4f43-9cd4-83f3f20b08e0" />
+
 
 A beautiful, real-time voice transcription desktop application built with **Tauri + React + TypeScript + Deepgram AI**. Record your voice with push-to-talk and get instant, accurate transcriptions.
 
@@ -22,13 +24,17 @@ A beautiful, real-time voice transcription desktop application built with **Taur
 ## 🖼️ Screenshots
 
 ### Ready State
-![Ready State](./screenshots/ready.png)
+<img width="1919" height="1017" alt="image" src="https://github.com/user-attachments/assets/b167cfae-a6e3-4092-adde-6bd209960e28" />
+
 
 ### Recording State
-![Recording](./screenshots/recording.png)
+<img width="1918" height="1012" alt="image" src="https://github.com/user-attachments/assets/94df55c9-975b-4d9d-870e-bee9e9db04a3" />
+
 
 ### Transcript Result
-![Result](./screenshots/result.png)
+<img width="1919" height="1010" alt="image" src="https://github.com/user-attachments/assets/77f50b01-d87d-4559-b9c0-4d4e31a81351" />
+
+
 
 ## 🚀 Tech Stack
 
@@ -54,7 +60,6 @@ Before you begin, ensure you have installed:
 git clone https://github.com/YOUR_USERNAME/wispr-clone.git
 cd wispr-clone
 
-text
 
 ### 2. Install Dependencies
 
@@ -66,7 +71,6 @@ pnpm install
 or
 yarn install
 
-text
 
 ### 3. Set Up Environment Variables
 
@@ -74,7 +78,6 @@ Create a `.env` file in the root directory:
 
 VITE_DEEPGRAM_API_KEY=your_deepgram_api_key_here
 
-text
 
 Get your free API key from [Deepgram Console](https://console.deepgram.com/).
 
@@ -82,7 +85,6 @@ Get your free API key from [Deepgram Console](https://console.deepgram.com/).
 
 npm run tauri:dev
 
-text
 
 The app will launch in development mode with hot-reload enabled.
 
@@ -92,7 +94,6 @@ The app will launch in development mode with hot-reload enabled.
 
 npm run tauri:build
 
-text
 
 The installer will be created in `src-tauri/target/release/bundle/`.
 
@@ -107,7 +108,6 @@ npm run tauri:build -- --target aarch64-apple-darwin
 Linux
 npm run tauri:build -- --target x86_64-unknown-linux-gnu
 
-text
 
 ## 🎮 Usage
 
@@ -208,12 +208,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [React](https://react.dev/) - UI library
 - [Wispr Flow](https://wisprflow.com/) - Original inspiration
 
-## 📞 Contact
+👤 Author
+Bambam Kumar Gupta
 
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter)
+GitHub: https://github.com/bambamHub
+Email: bambamkumar30082003.ara@gmail.com
 
-Project Link: [https://github.com/YOUR_USERNAME/wispr-clone](https://github.com/YOUR_USERNAME/wispr-clone)
+Made with ❤️ by Bambam Kumar Gupta
 
----
-
-⭐ **Star this repo if you find it helpful!**
+⭐ Star this repo if you find it useful!
